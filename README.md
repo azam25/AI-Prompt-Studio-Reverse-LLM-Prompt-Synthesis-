@@ -24,6 +24,14 @@ AI Prompt Studio implements a novel approach called **Reverse LLM Prompt Synthes
 
 Combined with **RLAIF (Reinforcement Learning from AI Feedback)**, the platform iteratively refines prompts through an AI-driven feedback loop until they consistently produce the desired output structure and quality.
 
+<div align="center">
+
+![AI Prompt Studio Interface](assets/screenshot.png)
+
+*AI Prompt Studio showing RLAIF optimization with 5 iterations achieving 80% score*
+
+</div>
+
 ---
 
 ## 🔄 Reverse LLM Prompt Synthesis
